@@ -1,0 +1,38 @@
+[14-Nov-2016 07:55:58 CST6CDT] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/login.php on line 85
+[14-Nov-2016 07:56:14 CST6CDT] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/login.php on line 85
+[14-Nov-2016 07:56:44 CST6CDT] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/login.php on line 85
+[14-Nov-2016 09:09:36 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/karolin/public_html/virgo/admin/index.php on line 11
+[14-Nov-2016 09:12:50 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/index.php on line 11
+[14-Nov-2016 09:14:22 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/karolin/public_html/virgo/admin/index.php on line 17
+[14-Nov-2016 09:16:44 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/karolin/public_html/virgo/admin/index.php on line 11
+[15-Nov-2016 06:33:24 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/karolin/public_html/virgo/admin/profile.php on line 15
+[19-Nov-2016 05:07:13 CST6CDT] PHP Parse error:  syntax error, unexpected '$file' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/profile.php on line 31
+[19-Nov-2016 14:10:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'ob_start' (T_STRING) in /home/karolin/public_html/virgo/admin/workersettings.php on line 14
+[19-Nov-2016 17:29:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/karolin/public_html/virgo/admin/workersettings.php on line 81
+[19-Nov-2016 18:01:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/karolin/public_html/virgo/admin/workersettings.php on line 72
+[19-Nov-2016 18:01:38 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/karolin/public_html/virgo/admin/workersettings.php on line 72
+[19-Nov-2016 18:56:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/karolin/public_html/virgo/admin/workersettings.php on line 74
+[19-Nov-2016 18:59:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/karolin/public_html/virgo/admin/workersettings.php on line 72
+[11-Dec-2016 12:00:11 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/karolin/public_html/virgo/admin/workersettings.php on line 151
+[13-Dec-2016 12:36:39 CST6CDT] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:36:40 CST6CDT] PHP Parse error:  syntax error, unexpected '5' (T_LNUMBER) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:44 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:44 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:45 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[13-Dec-2016 12:37:55 CST6CDT] PHP Parse error:  syntax error, unexpected '$par_id' (T_VARIABLE) in /home/karolin/public_html/virgo/admin/process.php on line 55
+[18-Dec-2016 09:48:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/karolin/public_html/virgo/admin/index.php on line 24
+[18-Dec-2016 10:27:15 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/karolin/public_html/virgo/admin/index.php on line 18
+[18-Dec-2016 10:27:55 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/karolin/public_html/virgo/admin/index.php on line 18
+[18-Dec-2016 10:28:07 CST6CDT] PHP Parse error:  syntax error, unexpected '"SELECT COUNT(*) FROM users"' (T_CONSTANT_ENCAPSED_STRING) in /home/karolin/public_html/virgo/admin/index.php on line 18
+[18-Dec-2016 15:56:16 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/karolin/public_html/virgo/admin/index.php on line 29
+[18-Dec-2016 15:58:53 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/karolin/public_html/virgo/admin/index.php on line 17
+[20-Dec-2016 07:29:43 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/karolin/public_html/virgo/admin/calendar.php on line 313
+[28-Dec-2016 13:59:07 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 25
+[28-Dec-2016 14:00:14 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 26
+[28-Dec-2016 14:00:14 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 26
+[28-Dec-2016 14:00:51 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 31
+[28-Dec-2016 14:00:51 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 31
+[28-Dec-2016 14:00:52 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 31
+[28-Dec-2016 14:00:52 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/karolin/public_html/virgo/admin/newcsv.php on line 31
